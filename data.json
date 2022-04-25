@@ -51,7 +51,7 @@
     },
     {
       "name": "Bean Monster Instance 3",
-      "glbFile": "/assets/Bean_Monster_Instancing_V2.glb",
+      "glbFile": "/assets/Bean_Monster_Instancing_V3.glb",
       "attributes": [
         { "trait_type": "Sprout 1 Material", "value": "Ochre" },
         { "trait_type": "Sprout 2 Material", "value": "Orange" },
