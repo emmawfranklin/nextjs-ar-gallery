@@ -66,13 +66,19 @@
       ]
     },
     {
-      "name": "Green Cube",
-      "glbFile": "/assets/green-cube.glb",
+      "name": "Bean Monster Instance 4",
+      "glbFile": "/assets/Bean_Monster_Instancing_V4.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "green" },
-        { "trait_type": "material", "value": "plastic" }
+        { "trait_type": "Sprout 1 Material", "value": "Deep Purple Metal" },
+        { "trait_type": "Sprout 2 Material", "value": "Ochre" },
+        { "trait_type": "Sprout 3 Material", "value": "Pink Purple" },
+        { "trait_type": "Sprout 4 Material", "value": "Orange" },
+        { "trait_type": "Sprout 5 Material", "value": "Royal Blue Gloss" },
+        { "trait_type": "Sprout 1 Origin Vert", "value": "2965" },
+        { "trait_type": "Sprout 2 Origin Vert", "value": "3054" },
+        { "trait_type": "Sprout 3 Origin Vert", "value": "1411" },
+        { "trait_type": "Sprout 4 Origin Vert", "value": "1049" },
+        { "trait_type": "Sprout 5 Origin Vert", "value": "5970" }
       ]
     }
   ]
