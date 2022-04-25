@@ -18,13 +18,19 @@
   },
   "models": [
     {
-      "name": "Gold Cube",
+      "name": "Bean Monster Instance 1",
       "glbFile": "/assets/Bean_Monster_Instancing_V1.glb",
       "attributes": [
-        { "trait_type": "shape", "value": "cube" },
-        { "trait_type": "size", "value": "small" },
-        { "trait_type": "color", "value": "gold" },
-        { "trait_type": "material", "value": "metal" }
+        { "trait_type": "Sprout 1 Material", "value": "Dark Teal Metal" },
+        { "trait_type": "Sprout 2 Material", "value": "Royal Blue Gloss" },
+        { "trait_type": "Sprout 3 Material", "value": "Orange" },
+        { "trait_type": "Sprout 4 Material", "value": "Pink Purple" },
+        { "trait_type": "Sprout 5 Material", "value": "Deep Purple Metal" },
+        { "trait_type": "Sprout 1 Origin Vert", "value": "2965" },
+        { "trait_type": "Sprout 2 Origin Vert", "value": "3000" },
+        { "trait_type": "Sprout 3 Origin Vert", "value": "1049" },
+        { "trait_type": "Sprout 4 Origin Vert", "value": "1023" },
+        { "trait_type": "Sprout 5 Origin Vert", "value": "1023" }
       ]
     },
     {
