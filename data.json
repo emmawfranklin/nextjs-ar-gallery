@@ -1,7 +1,7 @@
 {
   "artist": {
     "name": "Emma Franklin",
-    "avatar": "/images/Emma_Avatar.jpg",
+    "avatar": "/images/Emma_Avatar.png",
     "shortBio": "Generative Artist",
     "socials": [
       { "icon": "FaHome", "url": "https://emmawfranklin.com" },
